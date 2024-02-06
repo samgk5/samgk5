@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @samgk5
-I’m interested in both software and hardware
+- 👋 Hi, I’m @samgk5,
+I’m interested in both software and hardware,
  I’m currently learning bsc in applied physics and computer science
 
 <!---
